@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**gastonexc/gastonexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+## :smile:, I'm Gastón Carreño 
+## Full Stack Developer and Data Science student 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](www.linkedin.com/in/gaston-carreño)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:gastonexc@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const gastonexc = {
+    askMeAbout: ["web dev", "tech", "data science"],
+    technologies:{
+        lenguajes: ["Javascript (node.js, express.js)", "Python", "PHP"],
+        frameworks: ["Angular", "Symfony", "DJango", "Vue"],
+        librerías: ["React","JQuery"],
+        database: ["mongo","mySql"], 
+}  
+```
