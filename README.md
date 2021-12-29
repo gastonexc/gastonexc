@@ -5,8 +5,8 @@
 ## :smile:, I'm Gastón Carreño 
 ## Full Stack Developer and Data Science student 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](www.linkedin.com/in/gaston-carreño)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:gastonexc@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-gastonexc-blue)](www.linkedin.com/in/gaston-carreño)
+[![](https://img.shields.io/badge/Gmail-gastonexc010%40gmail.com-red)](mailto:gastonexc@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="200"> A little more about me...  
