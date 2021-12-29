@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:gastonexc@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const gastonexc = {
