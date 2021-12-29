@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="230">
 
 ## :smile:, I'm Gastón Carreño 
 ## Full Stack Developer and Data Science student 👨‍💻
